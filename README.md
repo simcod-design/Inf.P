@@ -1,7 +1,7 @@
 # Inf.P cutoff 
 
 This repository contains code used to reproduce simulations and applications in the article  
-"Defining an Optimal Cut-Off for Subscales Without a Gold Standard: A Novel Method Using Inflection Points of Latent Attribute Probabilities and Raw Scores"** by Pervin Demir and Selcen Yuksel.
+**"Defining an Optimal Cut-Off for Subscales Without a Gold Standard: A Novel Method Using Inflection Points of Latent Attribute Probabilities and Raw Scores"** by Pervin Demir and Selcen Yuksel.
 
 **Simulation** contains R scripts used to generate simulated data and evaluate the proposed method under various simulation scenarios.
 
