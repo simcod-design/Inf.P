@@ -5,3 +5,6 @@ The data used in these figures are derived from two data sets:
 *means.sav*: This dataset consists of simulation results across 60 distinct conditions, including mean bias estimates with 95% confidence intervals and mean squared errors for Accuracy, Sensitivity, and Specificity. 
 
 **“Figure3supp.ipynb”** contains a graph illustrating the 95% confidence intervals for the median values of the cutoff points. The graphs were generated using the boundary values contained in the "bound.csv" file and the prediction values from the "A123.sav" file.
+
+
+**NOTE:** Due to potential file size limitations, the .sav file may not open directly on GitHub. Therefore, the dataset has also been uploaded in .csv format for accessibility.
