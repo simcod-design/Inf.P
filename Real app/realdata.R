@@ -5,7 +5,7 @@ library(GDINA)
 library(dplyr)
 library(RootsExtremaInflections)
 
-dat=as.data.frame(srs[,3:22])
+dat=as.data.frame(srs[,2:22])
 Qc=as.data.frame(qmatrix)
 
 est=GDINA(dat=dat,Q=Qc,model="GDINA",sequential = TRUE,mono.constraint = TRUE,
