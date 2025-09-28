@@ -10,3 +10,5 @@ This repository contains code used to reproduce simulations and applications in 
 **Figures** contains scripts used to generate the figures presented in the article, including inflection curves, accuracy comparisons, and diagnostic performance plots.
 
 **Real app** provides code for applying the proposed method to real-world data derived from clinical or psychological measurement contexts.
+
+**Web Application** A Shiny web app implementation of the proposed Inf.P Cutoff method, enabling interactive data upload, cut-off estimation, visualization of inflection point plots, and export of results for practical use.
