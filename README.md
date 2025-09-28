@@ -11,4 +11,5 @@ This repository contains code used to reproduce simulations and applications in 
 
 **Real app** provides code for applying the proposed method to real-world data derived from clinical or psychological measurement contexts.
 
-**Web Application** A Shiny web app implementation of the proposed Inf.P Cutoff method, enabling interactive data upload, cut-off estimation, visualization of inflection point plots, and export of results for practical use.
+**Web Application** An interactive Shiny web app implementation of the proposed Inf.P method.The app allows users to upload response data and Q-matrix files, run the cut-off analysis, visualize inflection point plots, and download results.
+**Accessible online at: https://spapp.shinyapps.io/InfPcutoff/**
